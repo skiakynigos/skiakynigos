@@ -1,16 +1,22 @@
 ## Hi there 👋
+# Hi there, I'm Vansh Aggarwal! 👋
 
-<!--
-**skiakynigos/skiakynigos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a first-year **BTech Computer Science** student at **VIT Bhopal University**. I am passionate about solving problems through code and exploring the vast world of Artificial Intelligence and Software Development.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🎓 Currently learning the fundamentals of Data Structures and Algorithms.
+- 💡 Interested in Python programming and its applications in AI/ML.
+- 🏫 Exploring Cross-Cultural Communication and Universal Human Values at VIT.
+- ⚡ Fun fact: I enjoy building projects that bridge the gap between hardware and software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Tools
+- **Languages:** Python (Primary), C/C++
+- **Fields of Interest:** Computational Physics, Artificial Intelligence, Gesture Control Systems
+- **Tools:** Git, GitHub, VS Code, Linux
+
+### 📂 Current Projects
+- **AI Assistant:** Working on a voice and gesture-controlled assistant.
+- **Problem Solving:** Consistently practicing logic on platforms like LeetCode/HackerRank.
+---
+*“The best way to predict the future is to invent it.”*
+
